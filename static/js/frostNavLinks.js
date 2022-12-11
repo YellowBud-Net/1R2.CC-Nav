@@ -370,15 +370,9 @@ var frostNavLinks = {
                         },
                     ],
                     title: '日本',
-                    links: [
+                    sub: [
                         {
-                            title: 'Yahoo!路線情報',
-                            link: 'https://transit.yahoo.co.jp/',
-                            update: '2022-12-11'
-                        },
-                        sub: [
-                            {
-                                title: 'JR各社',
+                            title: 'JR各社',
                                 links: [
                                     {
                                         title: '東日本旅客鉄道株式会社',
@@ -411,32 +405,37 @@ var frostNavLinks = {
                                         update: '2022-12-11'
                                     },
                                 ],
-                                title: '地下铁',
-                                links: [
-                                    {
-                                        title: '東京地下鉄株式会社',
-                                        link: 'https://www.tokyometro.jp/',
-                                        update: '2022-12-11'
-                                    },
-                                    {
-                                        title: '東京地下鉄株式会社',
-                                        link: 'https://www.kotsu.metro.tokyo.jp/',
-                                        update: '2022-12-11'
-                                    },
-                                ],
-                                title: '私铁',
-                                links: [
-                                    {
-                                        title: '東京浜急行電鉄',
-                                        link: 'https://www.keikyu.co.jp/',
-                                        update: '2022-12-11'
-                                    },
-                                ],
-                            },
-                        ],
+                            sub: [
+                                {
+                                    title: '地下铁',
+                                    links: [
+                                        {
+                                            title: '東京地下鉄株式会社',
+                                            link: 'https://www.tokyometro.jp/',
+                                            update: '2022-12-11'
+                                        },
+                                        {
+                                            title: '東京地下鉄株式会社',
+                                            link: 'https://www.kotsu.metro.tokyo.jp/',
+                                            update: '2022-12-11'
+                                        },
+                                    ],
+                                },
+                                {
+                                    title: '私铁',
+                                    links: [
+                                        {
+                                            title: '東京浜急行電鉄',
+                                            link: 'https://www.keikyu.co.jp/',
+                                            update: '2022-12-11'
+                                        },
+                                    ],
+                                }
+                            ]
+                        },
                     ],
-                }
-            ]
+                },
+            ],
         },
-    ]
+    ],
 };
