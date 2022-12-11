@@ -27,30 +27,34 @@ var frostNavLinks = {
                             update: '2022-12-11'
                         },
                     ],
-                    title: 'BC413',
-                    links: [
+                    sub: [
                         {
-                            title: 'BC413社区',
-                            link: 'https://www.bc413.com/',
-                            update: '2022-12-11'
-                        },
-                        {
-                            title: 'BC413 Wiki',
-                            link: 'https://wiki.bc413.com/',
-                            update: '2022-12-11'
-                        },
-                        {
-                            title: 'MTRmod 知识中心',
-                            link: 'https://www.mtrmod.com/',
-                            update: '2022-12-11'
-                        },
-                    ],
-                    title: 'ACOMOE',
-                    links: [
-                        {
-                            title: 'ACOMOE官网',
-                            link: 'https://www.aco.moe/',
-                            update: '2022-12-11'
+                            title: 'BC413',
+                            links: [
+                                {
+                                    title: 'BC413社区',
+                                    link: 'https://www.bc413.com/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: 'BC413 Wiki',
+                                    link: 'https://wiki.bc413.com/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: 'MTRmod 知识中心',
+                                    link: 'https://www.mtrmod.com/',
+                                    update: '2022-12-11'
+                                },
+                            ],
+                            title: 'ACOMOE',
+                            links: [
+                                {
+                                    title: 'ACOMOE官网',
+                                    link: 'https://www.aco.moe/',
+                                    update: '2022-12-11'
+                                },
+                            ],
                         },
                     ],  
                 },
