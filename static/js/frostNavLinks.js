@@ -369,10 +369,6 @@ var frostNavLinks = {
                             update: '2022-12-11'
                         },
                     ],
-                },
-            ],
-            sub: [
-                {
                     title: '日本',
                     links: [
                         sub: [
