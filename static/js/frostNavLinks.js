@@ -4,7 +4,70 @@ var frostNavLinks = {
     version: '2022-12-11',
     // 列表
     list: [
-        // 主分类
+        {
+            title: '黄芽三方合作体系',
+            icon: 'el-icon-document',
+            sub: [
+                {
+                    sub: [
+                        {
+                            title: '黄芽网络',
+                            links: [
+                                {
+                                    title: '黄芽官网',
+                                    link: 'https://www.yellowbud.net/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: '黄芽机器人',
+                                    link: 'https://bot.yellowbud.net/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: '1R2图床',
+                                    link: 'https://1r2image.com/',
+                                    update: '2022-12-11'
+                                },
+                            ],
+                        },
+                    ],
+                    sub: [
+                        {
+                            title: 'BC413',
+                            links: [
+                                {
+                                    title: 'BC413社区',
+                                    link: 'https://www.bc413.com/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: 'BC413 Wiki',
+                                    link: 'https://wiki.bc413.com/',
+                                    update: '2022-12-11'
+                                },
+                                {
+                                    title: 'MTRmod 知识中心',
+                                    link: 'https://www.mtrmod.com/',
+                                    update: '2022-12-11'
+                                },
+                            ],
+                        },
+                    ],
+                    sub: [
+                        {
+                            title: 'ACOMOE',
+                            links: [
+                                {
+                                    title: 'ACOMOE官网',
+                                    link: 'https://www.aco.moe/',
+                                    update: '2022-12-11'
+                                },
+                            ],
+                        },
+                    ],  
+                },
+            ],
+        },
         {
             // 标题
             title: '百科 / 教程 / 科普 / 资料',
@@ -317,19 +380,79 @@ var frostNavLinks = {
                             link: 'https://www.12306.cn/',
                             update: '2022-12-11'
                         },
-                        {
-                            title: '地铁通（MetroMan）',
-                            link: 'http://www.metroman.cn/',
-                            update: '2022-12-11'
-                        },
                     ],
+                },
+            ],
+            sub: [
+                {
                     title: '日本',
                     links: [
-                        {
-                            title: '東日本旅客鉄道株式会社',
-                            link: 'http://www.jreast.cojp/',
-                            update: '2022-12-11'
-                        },
+                        sub: [
+                            {
+                                title: 'JR各社',
+                                links: [
+                                    {
+                                        title: '東日本旅客鉄道株式会社',
+                                        link: 'http://www.jreast.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '西日本旅客鉄道株式会社',
+                                        link: 'https://www.westjr.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '東海旅客鉄道株式会社',
+                                        link: 'https://jr-central.co.jp/',
+                                       update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '九州旅客鉄道株式会社',
+                                        link: 'https://www.jrkyushu.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '北海道旅客鉄道株式会社',
+                                        link: 'https://www.jrhokkaido.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '四国旅客鉄道株式会社',
+                                        link: 'https://www.jr-shikoku.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                ],
+                            },
+                        ],
+                        sub: [
+                            {
+                                title: '地下铁',
+                                links: [
+                                    {
+                                        title: '東京地下鉄株式会社',
+                                        link: 'https://www.tokyometro.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                    {
+                                        title: '東京地下鉄株式会社',
+                                        link: 'https://www.kotsu.metro.tokyo.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                ],
+                            },
+                        ],
+                        sub: [
+                            {
+                                title: '私铁',
+                                links: [
+                                    {
+                                        title: '東京浜急行電鉄',
+                                        link: 'https://www.keikyu.co.jp/',
+                                        update: '2022-12-11'
+                                    },
+                                ],
+                            },
+                        ],
                     ],
                 }
             ]
