@@ -9,7 +9,6 @@ var frostNavLinks = {
             icon: 'el-icon-document',
             sub: [
                 {
-
                     title: '黄芽网络',
                     links: [
                         {
@@ -413,7 +412,7 @@ var frostNavLinks = {
                                 ],
                             },
                         ],
-                        sub: [
+                        [
                             {
                                 title: '地下铁',
                                 links: [
@@ -430,7 +429,7 @@ var frostNavLinks = {
                                 ],
                             },
                         ],
-                        sub: [
+                        [
                             {
                                 title: '私铁',
                                 links: [
