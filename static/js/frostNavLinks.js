@@ -371,6 +371,11 @@ var frostNavLinks = {
                     ],
                     title: '日本',
                     links: [
+                        {
+                            title: 'Yahoo!路線情報',
+                            link: 'https://transit.yahoo.co.jp/',
+                            update: '2022-12-11'
+                        },
                         sub: [
                             {
                                 title: 'JR各社',
@@ -406,10 +411,6 @@ var frostNavLinks = {
                                         update: '2022-12-11'
                                     },
                                 ],
-                            },
-                        ],
-                        [
-                            {
                                 title: '地下铁',
                                 links: [
                                     {
@@ -423,10 +424,6 @@ var frostNavLinks = {
                                         update: '2022-12-11'
                                     },
                                 ],
-                            },
-                        ],
-                        [
-                            {
                                 title: '私铁',
                                 links: [
                                     {
