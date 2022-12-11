@@ -9,60 +9,49 @@ var frostNavLinks = {
             icon: 'el-icon-document',
             sub: [
                 {
-                    sub: [
+
+                    title: '黄芽网络',
+                    links: [
                         {
-                            title: '黄芽网络',
-                            links: [
-                                {
-                                    title: '黄芽官网',
-                                    link: 'https://www.yellowbud.net/',
-                                    update: '2022-12-11'
-                                },
-                                {
-                                    title: '黄芽机器人',
-                                    link: 'https://bot.yellowbud.net/',
-                                    update: '2022-12-11'
-                                },
-                                {
-                                    title: '1R2图床',
-                                    link: 'https://1r2image.com/',
-                                    update: '2022-12-11'
-                                },
-                            ],
+                            title: '黄芽官网',
+                            link: 'https://www.yellowbud.net/',
+                            update: '2022-12-11'
+                        },
+                        {
+                            title: '黄芽机器人',
+                            link: 'https://bot.yellowbud.net/',
+                            update: '2022-12-11'
+                        },
+                        {
+                            title: '1R2图床',
+                            link: 'https://1r2image.com/',
+                            update: '2022-12-11'
                         },
                     ],
-                    sub: [
+                    title: 'BC413',
+                    links: [
                         {
-                            title: 'BC413',
-                            links: [
-                                {
-                                    title: 'BC413社区',
-                                    link: 'https://www.bc413.com/',
-                                    update: '2022-12-11'
-                                },
-                                {
-                                    title: 'BC413 Wiki',
-                                    link: 'https://wiki.bc413.com/',
-                                    update: '2022-12-11'
-                                },
-                                {
-                                    title: 'MTRmod 知识中心',
-                                    link: 'https://www.mtrmod.com/',
-                                    update: '2022-12-11'
-                                },
-                            ],
+                            title: 'BC413社区',
+                            link: 'https://www.bc413.com/',
+                            update: '2022-12-11'
+                        },
+                        {
+                            title: 'BC413 Wiki',
+                            link: 'https://wiki.bc413.com/',
+                            update: '2022-12-11'
+                        },
+                        {
+                            title: 'MTRmod 知识中心',
+                            link: 'https://www.mtrmod.com/',
+                            update: '2022-12-11'
                         },
                     ],
-                    sub: [
+                    title: 'ACOMOE',
+                    links: [
                         {
-                            title: 'ACOMOE',
-                            links: [
-                                {
-                                    title: 'ACOMOE官网',
-                                    link: 'https://www.aco.moe/',
-                                    update: '2022-12-11'
-                                },
-                            ],
+                            title: 'ACOMOE官网',
+                            link: 'https://www.aco.moe/',
+                            update: '2022-12-11'
                         },
                     ],  
                 },
