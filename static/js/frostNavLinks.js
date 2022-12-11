@@ -301,120 +301,36 @@ var frostNavLinks = {
             ]
         },
         {
-            title: '出行 / 服务 / 生活',
+            title: '轨道交通',
             icon: 'el-icon-bicycle',
             sub: [
                 {
-                    title: '出行',
+                    title: '中国大陆',
                     links: [
                         {
                             title: '地铁通（MetroMan）',
                             link: 'http://www.metroman.cn/',
-                            update: '2021-04-16'
+                            update: '2022-12-11'
                         },
                         {
                             title: '中国铁路 12306',
                             link: 'https://www.12306.cn/',
-                            update: '2021-02-08'
-                        }
+                            update: '2022-12-11'
+                        },
+                        {
+                            title: '地铁通（MetroMan）',
+                            link: 'http://www.metroman.cn/',
+                            update: '2022-12-11'
+                        },
                     ],
-                    sub: [
-                        {
-                            title: '轨道交通',
-                            links: [
-                                {
-                                    title: '北京地铁',
-                                    link: 'https://www.bjsubway.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '成都地铁',
-                                    link: 'http://www.chengdurail.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '广州地铁',
-                                    link: 'http://www.gzmtr.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '杭州地铁',
-                                    link: 'http://www.hzmetro.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '南京地铁',
-                                    link: 'http://www.njmetro.com.cn/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '南宁地铁',
-                                    link: 'http://www.nngdjt.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '青岛地铁',
-                                    link: 'http://www.qd-metro.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '上海地铁',
-                                    link: 'http://www.shmetro.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '沈阳地铁',
-                                    link: 'http://www.symtc.com/',
-                                    update: '2021-02-08'
-                                },
-                                {
-                                    title: '深圳地铁',
-                                    link: 'http://www.szmc.net/',
-                                    update: '2021-02-08'
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    title: '服务',
+                    title: '日本',
                     links: [
                         {
-                            title: '公安部“互联网+政务服务”平台',
-                            link: 'https://zwfw.mps.gov.cn/',
-                            update: '2021-06-04'
-                        }
-                    ]
-                },
-                {
-                    title: '旅游',
-                    links: [
-                        {
-                            title: '飞猪旅行',
-                            link: 'https://www.alitrip.com/',
-                            update: '2021-02-08'
+                            title: '東日本旅客鉄道株式会社',
+                            link: 'http://www.jreast.cojp/',
+                            update: '2022-12-11'
                         },
-                        {
-                            title: '途牛',
-                            link: 'http://www.tuniu.com/',
-                            update: '2021-02-08'
-                        },
-                        {
-                            title: '携程旅行网',
-                            link: 'https://www.ctrip.com/',
-                            update: '2021-02-08'
-                        }
-                    ]
-                },
-                {
-                    title: '生活',
-                    links: [
-                        {
-                            title: '绿色呼吸',
-                            link: 'http://www.pm25.com/',
-                            update: '2021-02-08'
-                        }
-                    ]
+                    ],
                 }
             ]
         },
